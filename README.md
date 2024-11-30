@@ -1,0 +1,2 @@
+# .github
+infochat简介
